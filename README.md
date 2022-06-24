@@ -15,11 +15,14 @@ The PacMan exercise is a great demonstration of how we can use JavaScript to man
 - Select ![image](https://user-images.githubusercontent.com/92131037/169933331-a181dc52-230e-42c1-9708-a1835bfbaa25.png) to begin!
 
 
+# Click [here](https://cbp2022.github.io/PacMenExercise/) to play in browser!
 
 # Road Map 
 - Add Ghost enemies to game
 - Update Background
 - Not only for Pacmen, you can use your favorite icon, like Pokemon.
  
+ # [LICENSE](https://github.com/CBP2022/PacMenExercise/blob/master/LICENSE)
+![image](https://user-images.githubusercontent.com/92131037/170177214-078711af-a710-46d7-acd0-3c91dd921b22.png)
 
 # please email baopengc@yahoo.com for more information.
